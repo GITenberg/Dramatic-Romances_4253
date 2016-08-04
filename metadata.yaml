@@ -1,0 +1,39 @@
+_repo: Dramatic-Romances_4253
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+description: 'Go to top; Introduction; Incident of the French Camp; The Patriot; An
+  Old Story; Count Gismond; The Boy and the Angel; Instans Tyrannus; Mesmerism; The
+  Glove; Time''s Revenges; The Italian in England; In a Gondola; Waring; A Light Woman;
+  The Englishman in Italy; The Last Ride Together; The Flight of the Duchess; Holy-Cross
+  Day; Protus; The Statue and the Bust; Porphyria''s Lover; "Childe Roland to the
+  Dark Tower Came"; The Heretic''s Tragedy; A Grammarian''s Funeral; The Pied Piper
+  of Hamelin: A Child''s Story; Robert Browning Biography.'
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+- GITenberg
+tableOfContents: 'Introduction -- Incident of the French Camp -- The Patriot -- My
+  Last Duchess -- Count Gismond -- The Boy and the Angel -- Instans Tyrannus -- Mesmerism
+  -- The Glove -- Time''s Revenges -- The Italian in England -- The Englishman in
+  Italy -- In a Gondola -- Waring -- The Twins -- A Light Woman -- The Last Ride Together
+  -- The Pied Piper of Hamelin: A Child''s Story -- The Flight of the Duchess -- A
+  Grammarian''s Funeral -- The Heretic''s Tragedy -- Holy-Cross Day -- Protus -- The
+  Statue and the Bust -- Porphyria''s Lover -- "Childe Roland to the Dark Tower Came".'
+title: Dramatic Romances
+url: http://www.gutenberg.org/ebooks/4253
