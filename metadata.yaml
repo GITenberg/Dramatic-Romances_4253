@@ -1,5 +1,8 @@
 _repo: Dramatic-Romances_4253
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Browning, Robert
@@ -15,6 +18,8 @@ description: 'Go to top; Introduction; Incident of the French Camp; The Patriot;
   Day; Protus; The Statue and the Bust; Porphyria''s Lover; "Childe Roland to the
   Dark Tower Came"; The Heretic''s Tragedy; A Grammarian''s Funeral; The Pied Piper
   of Hamelin: A Child''s Story; Robert Browning Biography.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4253#Dramatic-Romances
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
